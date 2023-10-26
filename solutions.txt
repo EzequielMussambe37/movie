@@ -1,0 +1,2 @@
+# create virtual environment ( python -m venv .venv)
+#activate by going sinde of the folder and run either   activate or activate.bat or activate.ps1
